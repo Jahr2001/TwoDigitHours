@@ -1,2 +1,2 @@
-# TwoDigitHour
-TwoDigitHour
+# TwoDigitHours
+TwoDigitHours
